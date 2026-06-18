@@ -36,7 +36,3 @@ I write about real problems I hit with Kubernetes and the Grafana stack at
 
 Kubernetes · AWS · Terraform · Crossplane · Argo CD · Karpenter · Helm · Go ·
 Loki · Mimir · Tempo · Grafana · Prometheus
-
-#### Reach me
-
-[LinkedIn](https://www.linkedin.com/in/miguel-santos-mas/) · [Blog](https://churi12.github.io)
