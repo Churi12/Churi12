@@ -13,6 +13,11 @@ TechWorks.
 I like fixing the boring-but-important things upstream. Lately I have been
 contributing to the tools I use at work and writing about it.
 
+<p>
+  <img height="165" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Churi12&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&hide=issues&theme=transparent" />
+  <img height="165" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Churi12&layout=compact&hide_border=true&langs_count=8&theme=transparent" />
+</p>
+
 #### Open source
 
 Recent contributions to the Grafana stack and Karpenter:
