@@ -15,13 +15,7 @@ contributing to the tools I use at work and writing about it.
 
 #### Open source
 
-Recent contributions to the Grafana stack, Karpenter, and Kubernetes SIGs:
-
-- [grafana/alloy](https://github.com/grafana/alloy/pull/6541) - build-cache fix for the BuildDate ldflag (merged)
-- [grafana/loki](https://github.com/grafana/loki/pulls/Churi12) - object-store lifecycle and retention docs, loki-canary docs
-- [grafana/mimir](https://github.com/grafana/mimir/pulls/Churi12) - compaction integration test, alertmanager ingress fix for zone-aware replication
-- [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns/pull/6517) - AAAA record read-path bugfix for the dnsimple provider
-- [aws/karpenter-provider-aws](https://github.com/aws/karpenter-provider-aws/pulls/Churi12) - kube-scheduler interaction docs
+Open source contributor across the cloud-native and Kubernetes ecosystem.
 
 #### Writing
 
