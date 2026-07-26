@@ -19,7 +19,7 @@ Open source contributor across the cloud-native and Kubernetes ecosystem.
 
 #### Writing
 
-I write about real problems I hit with Kubernetes and the Grafana stack at
+I write about real problems I hit at
 [churi12.github.io](https://churi12.github.io).
 
 #### Stack
